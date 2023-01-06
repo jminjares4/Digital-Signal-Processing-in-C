@@ -1,5 +1,5 @@
 # Digital Signal Processing in C 
-These repository will contain the software solutions of Udemy course `Digital Signal Processing (DSP) From Ground Up™ in C`.
+This repository will contain the software solutions of Udemy course `Digital Signal Processing (DSP) From Ground Up™ in C`.
 
 # Dependencies
 The course uses waveforms to visualize the signals that are being filter throughout [gnuplot](http://www.gnuplot.info). 
